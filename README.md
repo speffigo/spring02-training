@@ -10,5 +10,9 @@ Topics Covered:-<br>
                      ->@Primary<br>
                      ->@Qualifier<br>
                      ->@AutoWired<br>
+               4.> Dependency-Injection:<br>
+                     ->Constructor-based<br>
+                     ->Setter-based<br>
+                     ->Field-based
   
               
